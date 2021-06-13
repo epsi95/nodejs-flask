@@ -8,7 +8,7 @@ This is my small effort, not efficient in any way, but I was trying to see wheth
 
 And it worked! So now any WSGI complient web app like Django will run on this.
 
-I worked this code in `Ubuntu 20.04.2 LTS`, not quite sure about other operating systems. Check PyNode docs if any issue regarding running python code.
+I worked this code in `Ubuntu 20.04.2 LTS`, `node v14.17.0`, `python 3.8.5` not quite sure about other operating systems. Check PyNode docs if any issue regarding running python code.
 
 ```
 # set up virtual environment
