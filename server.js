@@ -1,6 +1,5 @@
 const http = require('http');
 const pynode = require('@fridgerator/pynode');
-const { Console } = require('console');
 
 const PORT = 8080;
 
